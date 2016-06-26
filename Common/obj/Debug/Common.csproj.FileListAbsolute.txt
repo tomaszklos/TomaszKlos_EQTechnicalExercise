@@ -1,0 +1,4 @@
+C:\Users\Tomo\Desktop\UBS\TomaszKlos_EQTechnicalExercise\TomaszKlos_EQTechnicalExercise\Common\bin\Debug\Common.dll
+C:\Users\Tomo\Desktop\UBS\TomaszKlos_EQTechnicalExercise\TomaszKlos_EQTechnicalExercise\Common\bin\Debug\Common.pdb
+C:\Users\Tomo\Desktop\UBS\TomaszKlos_EQTechnicalExercise\TomaszKlos_EQTechnicalExercise\Common\obj\Debug\Common.dll
+C:\Users\Tomo\Desktop\UBS\TomaszKlos_EQTechnicalExercise\TomaszKlos_EQTechnicalExercise\Common\obj\Debug\Common.pdb
