@@ -1,0 +1,3 @@
+# TomaszKlos_EQTechnicalExercise
+TomaszKlos_EQTechnicalExercise
+
